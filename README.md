@@ -1,4 +1,4 @@
-# Credit_Card_Report-PowerBI
+# Credit_Card_Report_Analysis-PowerBI
 
 🔗 Project Objective:-
 
